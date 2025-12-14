@@ -21,4 +21,5 @@ The project is designed using SysML and is organized into three main packages:
 **Group 17** - Hochschule Hamm-Lippstadt
 * Mohamed Abdo
 * MD Ruhul Saleh
-* MD Helal
+* MD Helal Uddin
+* Moeez Mufti
