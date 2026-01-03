@@ -1,5 +1,6 @@
 # Smart Parking System
 
+# Grade: 1.7
 ## Project Overview
 This project models a fully automated Smart Parking System designed to optimize vehicle flow and parking management. The system utilizes RFID technology and sensors to control vehicle access, track parking duration, and automate fee collection.
 
